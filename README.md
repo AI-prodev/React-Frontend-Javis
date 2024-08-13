@@ -1,7 +1,7 @@
 #  Chatbot Javis 🦜 
  - OpenAI + GoogleAI + Langchain + React + Nestjs + Oauth2 [Google - Facebook - Github]
  - For some security reasons, this resource has to keep the Back-end development repo private.
- - Check out [Nestjs backend](https://github.com/DinhQuocDat1310/side_project_ecom)
+ - Check out [Nestjs backend](https://github.com/luxuereal/Javis_Backend-Nest)
 ## Demo
 [![Demo Chatbot javis](./public/demo.gif)](https://javis-f3q7.onrender.com/)
 
@@ -38,5 +38,3 @@
 ### Chatbot :
   - [Additional Google AI Gemini-pro model] Open AI Chatbot using langchain.
   - Prepare OPEN_API_KEY.
-  
-### Contact me [Finn](mailto:chien.170901@gmail.com) or [Axcel](datdinhquoc1310@gmail.com) for backend server.
